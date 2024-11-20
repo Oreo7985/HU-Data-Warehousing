@@ -1,3 +1,5 @@
 *.csv
 **/oracle/
 *.zip
+**/code/
+*.graffle
