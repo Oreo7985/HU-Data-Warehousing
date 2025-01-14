@@ -1,6 +1,8 @@
 *.csv
+*.csv.gz
 **/oracle/
 *.zip
 **/code/
 *.graffle
 *.yml
+*.jpg
